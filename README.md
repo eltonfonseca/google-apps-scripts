@@ -1,2 +1,2 @@
-# google-apps-scripts
-Some Google Apps Script
+# Google Apps Scripts
+This repository has some scripts for Google Sheets
